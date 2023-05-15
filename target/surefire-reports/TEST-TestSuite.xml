@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="4.656" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="4.701" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CA"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/priyankaverma/jiraAPI/target/surefire/surefirebooter-20230515161226756_3.jar /Users/priyankaverma/jiraAPI/target/surefire 2023-05-15T16-12-26_627-jvmRun1 surefire-20230515161226756_1tmp surefire_0-20230515161226756_2tmp"/>
+    <property name="sun.java.command" value="/Users/priyankaverma/jiraAPI/target/surefire/surefirebooter-20230515184724964_3.jar /Users/priyankaverma/jiraAPI/target/surefire 2023-05-15T18-47-24_847-jvmRun1 surefire-20230515184724964_1tmp surefire_0-20230515184724964_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/priyankaverma/jiraAPI/target/test-classes:/Users/priyankaverma/jiraAPI/target/classes:/Users/priyankaverma/.m2/repository/io/rest-assured/rest-assured/5.3.0/rest-assured-5.3.0.jar:/Users/priyankaverma/.m2/repository/org/apache/groovy/groovy/4.0.6/groovy-4.0.6.jar:/Users/priyankaverma/.m2/repository/org/apache/groovy/groovy-xml/4.0.6/groovy-xml-4.0.6.jar:/Users/priyankaverma/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/priyankaverma/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/priyankaverma/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/priyankaverma/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/priyankaverma/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/priyankaverma/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/priyankaverma/.m2/repository/io/rest-assured/json-path/5.3.0/json-path-5.3.0.jar:/Users/priyankaverma/.m2/repository/org/apache/groovy/groovy-json/4.0.6/groovy-json-4.0.6.jar:/Users/priyankaverma/.m2/repository/io/rest-assured/rest-assured-common/5.3.0/rest-assured-common-5.3.0.jar:/Users/priyankaverma/.m2/repository/io/rest-assured/xml-path/5.3.0/xml-path-5.3.0.jar:/Users/priyankaverma/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/priyankaverma/.m2/repository/org/testng/testng/7.7.1/testng-7.7.1.jar:/Users/priyankaverma/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/priyankaverma/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/priyankaverma/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:/Users/priyankaverma/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/priyankaverma/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.15.0-rc2/jackson-dataformat-yaml-2.15.0-rc2.jar:/Users/priyankaverma/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.0-rc2/jackson-databind-2.15.0-rc2.jar:/Users/priyankaverma/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.0-rc2/jackson-annotations-2.15.0-rc2.jar:/Users/priyankaverma/.m2/repository/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar:/Users/priyankaverma/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.0-rc2/jackson-core-2.15.0-rc2.jar:"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/priyankaverma/jiraAPI/target/surefire/surefirebooter-20230515161226756_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/priyankaverma/jiraAPI/target/surefire/surefirebooter-20230515184724964_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.2+8-LTS-86"/>
@@ -55,7 +55,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="attachments" classname="addAttachments" time="2.802">
+  <testcase name="attachments" classname="addAttachments" time="2.598">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://pverma.atlassian.net/rest/api/3/issue/10049/attachments
 Proxy:			<none>
@@ -75,19 +75,19 @@ Multiparts:		------------
 				jira.txt
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Mon, 15 May 2023 20:12:30 GMT
+Date: Mon, 15 May 2023 22:47:28 GMT
 Content-Type: application/json;charset=UTF-8
 Server: AtlassianEdge
 Timing-Allow-Origin: *
-X-Arequestid: c9ce65d1ff4910fbc5832e603a2fe077
-Set-Cookie: atlassian.xsrf.token=f96cd7fb-c2d7-47df-a88c-3e0f02279ef1_48a2196cbae38b857d6e1c043045b4fb488c0567_lin; path=/; SameSite=None; Secure
+X-Arequestid: 56ae5e3a3ccb6b050ccc9747e7e8df61
+Set-Cookie: atlassian.xsrf.token=f96cd7fb-c2d7-47df-a88c-3e0f02279ef1_690278a95853363198bfa2fa071c81e45961ec44_lin; path=/; SameSite=None; Secure
 X-Aaccountid: 712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7
 Cache-Control: no-cache, no-store, no-transform
 Vary: Accept-Encoding
 Content-Encoding: gzip
 X-Content-Type-Options: nosniff
 X-Xss-Protection: 1; mode=block
-Atl-Traceid: 8dca437af9c2cf51
+Atl-Traceid: 93a8ed491ef7cbeb
 Report-To: {"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}
 Nel: {"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
@@ -95,8 +95,8 @@ Transfer-Encoding: chunked
 
 [
     {
-        "self": "https://pverma.atlassian.net/rest/api/3/attachment/10003",
-        "id": "10003",
+        "self": "https://pverma.atlassian.net/rest/api/3/attachment/10005",
+        "id": "10005",
         "filename": "jira.txt",
         "author": {
             "self": "https://pverma.atlassian.net/rest/api/3/user?accountId=712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7",
@@ -113,10 +113,10 @@ Transfer-Encoding: chunked
             "timeZone": "America/Toronto",
             "accountType": "atlassian"
         },
-        "created": "2023-05-15T16:12:30.250-0400",
+        "created": "2023-05-15T18:47:28.263-0400",
         "size": 0,
         "mimeType": "text/plain",
-        "content": "https://pverma.atlassian.net/rest/api/3/attachment/content/10003"
+        "content": "https://pverma.atlassian.net/rest/api/3/attachment/content/10005"
     }
 ]
 ]]></system-out>
@@ -125,7 +125,7 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="comment" classname="addComment" time="0.518">
+  <testcase name="comment" classname="addComment" time="0.615">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://pverma.atlassian.net/rest/api/3/issue/10049/comment
 Proxy:			<none>
@@ -157,27 +157,27 @@ Body:
     }
 }
 HTTP/1.1 201 Created
-Date: Mon, 15 May 2023 20:12:31 GMT
+Date: Mon, 15 May 2023 22:47:29 GMT
 Content-Type: application/json;charset=UTF-8
 Server: AtlassianEdge
 Timing-Allow-Origin: *
-X-Arequestid: c3e4ef8f397e98be00859734ef88843f
-Set-Cookie: atlassian.xsrf.token=f96cd7fb-c2d7-47df-a88c-3e0f02279ef1_3c8df8f82c8aba3a8135df0db1b5b6effc67fff4_lin; path=/; SameSite=None; Secure
+X-Arequestid: 491647f97914aa1422557a54274af72b
+Set-Cookie: atlassian.xsrf.token=f96cd7fb-c2d7-47df-a88c-3e0f02279ef1_fa577c5f3889ef3fd681e17f0be6b7655db5f9dd_lin; path=/; SameSite=None; Secure
 X-Aaccountid: 712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7
-Location: https://pverma.atlassian.net/rest/api/3/issue/10049/comment/10015
+Location: https://pverma.atlassian.net/rest/api/3/issue/10049/comment/10017
 Cache-Control: no-cache, no-store, no-transform
 Vary: Accept-Encoding
 X-Content-Type-Options: nosniff
 X-Xss-Protection: 1; mode=block
-Atl-Traceid: 8a63d20731ac500d
+Atl-Traceid: b5acccf7feae6cc3
 Report-To: {"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}
 Nel: {"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 Transfer-Encoding: chunked
 
 {
-    "self": "https://pverma.atlassian.net/rest/api/3/issue/10049/comment/10015",
-    "id": "10015",
+    "self": "https://pverma.atlassian.net/rest/api/3/issue/10049/comment/10017",
+    "id": "10017",
     "author": {
         "self": "https://pverma.atlassian.net/rest/api/3/user?accountId=712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7",
         "accountId": "712020:821291b0-eac4-42a9-b726-ae4061fa10b7",
@@ -223,13 +223,13 @@ Transfer-Encoding: chunked
         "timeZone": "America/Toronto",
         "accountType": "atlassian"
     },
-    "created": "2023-05-15T16:12:31.065-0400",
-    "updated": "2023-05-15T16:12:31.065-0400",
+    "created": "2023-05-15T18:47:29.173-0400",
+    "updated": "2023-05-15T18:47:29.173-0400",
     "jsdPublic": true
 }
 ]]></system-out>
   </testcase>
-  <testcase name="details" classname="verifyDetails" time="0.419">
+  <testcase name="details" classname="verifyDetails" time="0.46">
     <system-out><![CDATA[Request method:	GET
 Request URI:	https://pverma.atlassian.net/rest/api/3/issue/10049?fields=comment
 Proxy:			<none>
@@ -243,19 +243,19 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Mon, 15 May 2023 20:12:31 GMT
+Date: Mon, 15 May 2023 22:47:29 GMT
 Content-Type: application/json;charset=UTF-8
 Server: AtlassianEdge
 Timing-Allow-Origin: *
-X-Arequestid: 07feb90642658cebbaea167b2744643a
-Set-Cookie: atlassian.xsrf.token=f96cd7fb-c2d7-47df-a88c-3e0f02279ef1_d2e886dc420bcdd53f6fa793ab8caedaa2673157_lin; path=/; SameSite=None; Secure
+X-Arequestid: 046b2dcca245be51c4e71f7c20abf714
+Set-Cookie: atlassian.xsrf.token=f96cd7fb-c2d7-47df-a88c-3e0f02279ef1_1978a99dea67ec4d5669797eda43955afa8cc5f6_lin; path=/; SameSite=None; Secure
 X-Aaccountid: 712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7
 Cache-Control: no-cache, no-store, no-transform
 Vary: Accept-Encoding
 Content-Encoding: gzip
 X-Content-Type-Options: nosniff
 X-Xss-Protection: 1; mode=block
-Atl-Traceid: 8463e5352bc78f5d
+Atl-Traceid: 88364e7322ac040e
 Report-To: {"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}
 Nel: {"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
@@ -788,11 +788,115 @@ Transfer-Encoding: chunked
                     "created": "2023-05-15T16:12:31.065-0400",
                     "updated": "2023-05-15T16:12:31.065-0400",
                     "jsdPublic": true
+                },
+                {
+                    "self": "https://pverma.atlassian.net/rest/api/3/issue/10049/comment/10016",
+                    "id": "10016",
+                    "author": {
+                        "self": "https://pverma.atlassian.net/rest/api/3/user?accountId=712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "accountId": "712020:821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "emailAddress": "priyankaverma02895@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "24x24": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "16x16": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "32x32": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png"
+                        },
+                        "displayName": "Priyanka Verma",
+                        "active": true,
+                        "timeZone": "America/Toronto",
+                        "accountType": "atlassian"
+                    },
+                    "body": {
+                        "type": "doc",
+                        "version": 1,
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "content": [
+                                    {
+                                        "text": "Comment sent through Rest Assured 01.",
+                                        "type": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "updateAuthor": {
+                        "self": "https://pverma.atlassian.net/rest/api/3/user?accountId=712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "accountId": "712020:821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "emailAddress": "priyankaverma02895@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "24x24": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "16x16": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "32x32": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png"
+                        },
+                        "displayName": "Priyanka Verma",
+                        "active": true,
+                        "timeZone": "America/Toronto",
+                        "accountType": "atlassian"
+                    },
+                    "created": "2023-05-15T18:47:13.385-0400",
+                    "updated": "2023-05-15T18:47:13.385-0400",
+                    "jsdPublic": true
+                },
+                {
+                    "self": "https://pverma.atlassian.net/rest/api/3/issue/10049/comment/10017",
+                    "id": "10017",
+                    "author": {
+                        "self": "https://pverma.atlassian.net/rest/api/3/user?accountId=712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "accountId": "712020:821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "emailAddress": "priyankaverma02895@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "24x24": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "16x16": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "32x32": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png"
+                        },
+                        "displayName": "Priyanka Verma",
+                        "active": true,
+                        "timeZone": "America/Toronto",
+                        "accountType": "atlassian"
+                    },
+                    "body": {
+                        "type": "doc",
+                        "version": 1,
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "content": [
+                                    {
+                                        "text": "Comment sent through Rest Assured 01.",
+                                        "type": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "updateAuthor": {
+                        "self": "https://pverma.atlassian.net/rest/api/3/user?accountId=712020%3A821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "accountId": "712020:821291b0-eac4-42a9-b726-ae4061fa10b7",
+                        "emailAddress": "priyankaverma02895@gmail.com",
+                        "avatarUrls": {
+                            "48x48": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "24x24": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "16x16": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png",
+                            "32x32": "https://secure.gravatar.com/avatar/aca60b10303fadc82d5e76b8a1170200?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPV-6.png"
+                        },
+                        "displayName": "Priyanka Verma",
+                        "active": true,
+                        "timeZone": "America/Toronto",
+                        "accountType": "atlassian"
+                    },
+                    "created": "2023-05-15T18:47:29.173-0400",
+                    "updated": "2023-05-15T18:47:29.173-0400",
+                    "jsdPublic": true
                 }
             ],
             "self": "https://pverma.atlassian.net/rest/api/3/issue/10049/comment",
-            "maxResults": 10,
-            "total": 10,
+            "maxResults": 12,
+            "total": 12,
             "startAt": 0
         }
     }
