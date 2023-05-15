@@ -12,14 +12,14 @@ public class fileReader extends getterSetter {
 
 
     public getterSetter dataYamlReader() throws Exception {
-        File file = new File(  System.getProperty("user.dir") + "/src/main/java/data.yaml");
+        File file = new File(  System.getProperty("user.dir") + "src/main/java/myResources/data.yaml");
         getterSetter values=objectMapper.readValue(file,getterSetter.class);
         return values;
     }
 
 
     public getterSetter secretYamlReader() throws IOException {
-        File file = new File(System.getProperty("user.dir") + "/src/main/java/secrets.yaml");
+        File file = new File(System.getProperty("user.dir") + "src/main/java/myResources/secrets.yaml");
         getterSetter secrets =objectMapper.readValue(file,getterSetter.class);
         return secrets;
 
