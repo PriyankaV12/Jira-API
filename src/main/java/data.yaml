@@ -1,0 +1,13 @@
+attachmentsHeaderKey: X-Atlassian-Token
+attachmentsHeaderValue: no-check
+issueKey: key
+issueID: 10049
+contentType: Content-Type
+attachmentsContentType: multipart/form-data
+filePathName: jira.txt
+attachmentResource: /rest/api/3/issue/{key}/attachments
+headerValue: application/json
+commentResource: /rest/api/3/issue/{key}/comment
+queryParamKey: fields
+queryParamValue: comment
+resource: /rest/api/3/issue/{key}
