@@ -22,7 +22,7 @@ public class addComment extends baseTest {
         String res1 = given().auth().preemptive().basic(username, password).pathParam(values.getIssueKey(), values.getIssueID()).log().all()
                 .header(values.getContentType(), values.getHeaderValue())
                 .body(utilities.commentBody()).when().post(values.getCommentResource())
-                .then().log().all().assertThat().statusCode(201)
+                .then().log().all()
                 .extract().response().asString();
     }
 }

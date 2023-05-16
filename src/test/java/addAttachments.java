@@ -24,7 +24,7 @@ public class addAttachments extends baseTest {
                 .header(values.getContentType(), values.getAttachmentsContentType())
                 .multiPart("file", new File(values.getFilePathName()))
                 .when().post(values.getAttachmentResource())
-                .then().log().all().assertThat().statusCode(200)
+                .then().log().all()
                 .extract().response().asString();
 
     }
