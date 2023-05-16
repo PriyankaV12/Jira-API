@@ -15,11 +15,9 @@ public class addComment extends baseTest {
     public void comment()
     {
         RestAssured.baseURI = secrets.getBaseURI();
-        String username = secrets.getUsername();
-        String password = secrets.getPassword();
 
 
-        String res1 = given().auth().preemptive().basic(username, password).pathParam(values.getIssueKey(), values.getIssueID()).log().all()
+        String res1 = given().auth().preemptive().basic(secrets.getUsername(), secrets.getPassword()).pathParam(values.getIssueKey(), values.getIssueID()).log().all()
                 .header(values.getContentType(), values.getHeaderValue())
                 .body(utilities.commentBody()).when().post(values.getCommentResource())
                 .then().log().all()

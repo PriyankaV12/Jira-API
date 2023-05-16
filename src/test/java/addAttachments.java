@@ -16,10 +16,8 @@ public class addAttachments extends baseTest {
     public void attachments()
     {
         RestAssured.baseURI = secrets.getBaseURI();
-        String username = secrets.getUsername();
-        String password = secrets.getPassword();
 
-        String response =  given().auth().preemptive().basic(username, password).header(values.getAttachmentsHeaderKey(), values.getAttachmentsHeaderValue())
+        String response =  given().auth().preemptive().basic(secrets.getUsername(), secrets.getPassword()).header(values.getAttachmentsHeaderKey(), values.getAttachmentsHeaderValue())
                 .pathParam(values.getIssueKey(), values.getIssueID()).log().all()
                 .header(values.getContentType(), values.getAttachmentsContentType())
                 .multiPart("file", new File(values.getFilePathName()))
